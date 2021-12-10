@@ -40,4 +40,4 @@
 |**18** | *Ja*| *Lösningen ska förutom kod innehålla en fil med namnet "reflections" i formatet _md_, _txt_ eller _pdf_.*|
 |**19** | *Ja*| *reflections_-filen ska under rubriken "Kommandon" innehålla en **kortfattad** beskrivning av vilka _verb_ som är tillgängliga i din applikation och vad som anges som ytterligare argument för varje verb - - varför dessa är lämpliga argument till verbet.*|
 |**20** | *Ja*| *reflections_-filen ska under rubriken "Seperation" beskriva hur du har seperarat användningen av _System.Consol_ från dina modell-klasser. (1-4 paragrafer)*|
-|**21** | *Ja/nej*| *reflections_-filen ska under rubriken "Testning" beskriva de tester du skapat och deras syfte i lösningen samt en **motivering** varför just dessa tester är lämpliga i denna uppgift (2-3 paragrafer)*|
+|**21** | *Ja*| *reflections_-filen ska under rubriken "Testning" beskriva de tester du skapat och deras syfte i lösningen samt en **motivering** varför just dessa tester är lämpliga i denna uppgift (2-3 paragrafer)*|
